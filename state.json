@@ -1,1 +1,25 @@
-{"slots":{}}
+{
+  "slots": {
+    "tokyo|2026-11-29": "error",
+    "tokyo|2026-11-30": "error",
+    "tokyo|2026-12-01": "error",
+    "tokyo|2026-12-02": "error",
+    "tokyo|2026-12-03": "error",
+    "tokyo|2026-12-04": "error",
+    "tokyo|2026-12-05": "error",
+    "tokyo|2026-12-06": "error",
+    "tokyo|2026-12-07": "error",
+    "tokyo|2026-12-08": "error",
+    "osaka|2026-11-29": "error",
+    "osaka|2026-11-30": "error",
+    "osaka|2026-12-01": "error",
+    "osaka|2026-12-02": "error",
+    "osaka|2026-12-03": "error",
+    "osaka|2026-12-04": "error",
+    "osaka|2026-12-05": "error",
+    "osaka|2026-12-06": "error",
+    "osaka|2026-12-07": "error",
+    "osaka|2026-12-08": "error"
+  },
+  "checked_at": "2026-10-11T07:48:41.838921Z"
+}
